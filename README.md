@@ -1,6 +1,6 @@
 <h1>Hi there 👋 <br>My name is Athanasios Georgalis</h1>
 
-I study Information and Electronic Engineering at the International Hellenic University (IHU).
+I study at the Department of Information and Electronic Engineering at the International Hellenic University (IHU).
 
 🌍 I live in Thessaloniki<br>
 🖥️ Here is my <a href="https://thanasisgeorg.github.io/my_portfolio/" target="_blank">portfolio</a><br>
