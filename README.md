@@ -1,5 +1,4 @@
-<h1>Hi there 👋 
-My name is Athanasios Georgalis</h1>
+<h1>Hi there 👋 <br>My name is Athanasios Georgalis</h1>
 
 I study Information and Electronic Engineering at the International Hellenic University (IHU).
 
