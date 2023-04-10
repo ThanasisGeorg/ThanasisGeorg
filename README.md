@@ -5,3 +5,7 @@ I study Information and Electronic Engineering at the International Hellenic Uni
 🌍 I live in Thessaloniki<br>
 🖥️ Here is my <a href="https://thanasisgeorg.github.io/my_portfolio/" target="_blank">portfolio</a><br>
 ✉️ You can contact me at <a>thanasisgeorg03@gmail.com</a>
+
+### Skils
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
