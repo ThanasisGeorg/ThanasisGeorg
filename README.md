@@ -3,5 +3,5 @@
 I study Information and Electronic Engineering at the International Hellenic University (IHU).
 
 🌍 I live in Thessaloniki<br>
-🖥️ Here is my <a href="https://thanasisgeorg.github.io/my_portfolio/">portfolio</a><br>
+🖥️ Here is my <a href="https://thanasisgeorg.github.io/my_portfolio/" target="_blank">portfolio</a><br>
 ✉️ You can contact me at <a>thanasisgeorg03@gmail.com</a>
