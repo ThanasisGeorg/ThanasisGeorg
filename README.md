@@ -8,4 +8,4 @@ I study Information and Electronic Engineering at the International Hellenic Uni
 
 ### Skils
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js)](https://skillicons.dev)
