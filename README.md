@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Athanasios Georgalis
+### Hi there 👋 
+My name is Athanasios Georgalis
 
 I study Information and Electronic Engineering at the International Hellenic University (IHU).
 
