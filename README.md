@@ -8,4 +8,4 @@ I study at the Department of Information and Electronic Engineering at the Inter
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,kotlin,java,html,css,js,react,git,sqlite,postgresql,linux,ubuntu,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,kotlin,java,html,css,js,react,git,sqlite,postgresql,linux,ubuntu,unity,vscode,androidstudio)](https://skillicons.dev)
